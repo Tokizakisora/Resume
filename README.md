@@ -1,2 +1,1 @@
-# resume.github.io
-personal resume
+# README.md
