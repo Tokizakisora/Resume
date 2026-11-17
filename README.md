@@ -1,2 +1,2 @@
-# tokizakisore.github.io
+# resume.github.io
 personal resume
